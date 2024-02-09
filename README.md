@@ -1,6 +1,6 @@
 <h2>What the widget does</h2>
 <p>Creates widgets for the desktop to make it fit the aesthetic you want. 
-  Currently no widgets is avaliable, but the clock widget is being made.</p>
+  Currently no widgets is avaliable, but the clock widget is in progress.</p>
 
 <h2>The Goal</h2>
 <ul>
